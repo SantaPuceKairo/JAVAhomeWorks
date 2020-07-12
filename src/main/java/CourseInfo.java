@@ -1,6 +1,6 @@
-//Uzrakstiet metodi, kas parada zinojumu: [datuma laiks] lekcija par kursu [kurss]
+//Create a method that returns [date time] lecture about course [course]
 
-public class CourseDetails {
+public class CourseInfo {
 
     public String getDate(int i, int i1, int i2) {
         return "Course date: " + i2+"/"+i1+"/"+i;
